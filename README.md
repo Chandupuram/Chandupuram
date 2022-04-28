@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chandupuram
 - 👀 I’m interested in  projects on field of data science, machine learning.
-- 🌱 I’m currently learning R , java
+- 🌱 I’m currently learning R .
 - 💞️ I’m looking to collaborate on python, data science.
 - 📫 How to reach me https://www.linkedin.com/in/puram-chandu-2b1451193
 
