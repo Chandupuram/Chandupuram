@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chandupuram
-- 👀 I’m interested in  projects on field of data science, machine learning.
-- 🌱 I’m currently learning R .
-- 💞️ I’m looking to collaborate on python, data science.
+- 👀 I’m interested in Web-developmentt.
+- 🌱 I’m currently learning VueJs, Laravel.
+- 💞️ I’m looking to collaborate on web-development and python.
 - 📫 How to reach me https://www.linkedin.com/in/puram-chandu-2b1451193
 
 
