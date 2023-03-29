@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chandupuram
 - 👀 I’m interested in Web-developmentt.
-- 🌱 I’m currently learning VueJs, Laravel.
+- 🌱 I’m currently learning VueJs, Laravel, NodeJS.
 - 💞️ I’m looking to collaborate on web-development and python.
 - 📫 How to reach me https://www.linkedin.com/in/puram-chandu-2b1451193
 
